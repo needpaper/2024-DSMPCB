@@ -1,0 +1,6 @@
+pandas==1.4.4
+numpy==1.26.4
+scikit-learn==1.4.2
+torch==2.0.0+cu118
+matplotlib==3.5.2
+optuna==3.6.1
